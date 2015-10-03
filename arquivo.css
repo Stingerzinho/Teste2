@@ -1,7 +1,9 @@
 #esquerda{
   float: left;
+  width: 350px;
 }
 
 #direita{
   float: right;
+  width: 350px;
 }
