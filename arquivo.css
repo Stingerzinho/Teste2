@@ -1,11 +1,13 @@
 #esquerda{
   float: left;
-  width: 350px;
+  width: 445px;
 }
 
-
+#meio{
+  width: 445px;
+}
 
 #direita{
   float: right;
-  width: 350px;
+  width: 445px;
 }
