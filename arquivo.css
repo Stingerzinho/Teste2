@@ -8,5 +8,6 @@
 }
 
 #direita{
+  float: right;
   width: 445px;
 }
